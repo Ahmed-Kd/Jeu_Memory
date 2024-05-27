@@ -1,1 +1,1 @@
-# Jeu_Memory
+Un jeu de mémoire basé sur des cartes identiques a été conçu en JAVA, exploitant les interfaces graphiques intégrées et les principes de la programmation orientée objet POO. Cette expérience a renforcé les compétences en développement logiciel et en conception d'interfaces utilisateur.
